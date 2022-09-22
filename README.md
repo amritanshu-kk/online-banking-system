@@ -11,9 +11,9 @@ The Online Banking System suite provides a global accounting foundation that pro
 
 
 ## Sections:
-:-- Registration
-:-- Account Details
-:-- Deposit Cash
-:-- Withdraw Cash
-:-- Transfer Money
-:-- Transaction History
+* [Registration](#registration)
+* [Account Details](#account-details)
+* [Deposit Cash](#deposit-cash)
+* [Withdraw Cash](#withdraw-cash)
+* [Transfer Money](#transaction-money)
+* [Transaction History](#transcation-history)
