@@ -1,5 +1,5 @@
 # Online-Banking-System
-Online banking system using Java, JDBC, Java Mail API etc.
+Online banking system using Core Java, JDBC, Java Mail API etc.
 
 ## Project Description:
 Online Bank Management System is very simple and entry level project developed in java using jdbc technology. I have used database to store all the details of customer account in a table.
